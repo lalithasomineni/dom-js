@@ -13,7 +13,7 @@
 - document.replaceChild(new, old)	Replace an HTML element
 - document.write(text)	Write into the HTML output stream
 ##### example event:
-- <button onclick="displayDate()">Try it</button>
+- //<button onclick="displayDate()">Try it</button>
 ##### event listenerss
 - document.getElementById("myBtn").addEventListener("click", displayDate);
  on click start executing displaydatefunction.
